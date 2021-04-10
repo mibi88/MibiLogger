@@ -38,7 +38,7 @@ errorlog("Demo error","mibilogger_demo","Cool !")
 
 Will be display :
 
-![Result](https://raw.githubusercontent.com/mibi88/MibiLogger/main/example_imgs/example2.png)
+![Result](https://raw.githubusercontent.com/mibi88/MibiLogger/main/example_imgs/example2_1.png)
 
 ### `infolog(error_name, error_type, value)`
 
