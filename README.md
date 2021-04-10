@@ -6,7 +6,7 @@ Create logs easier in Python 3 !
 [TOC]
 
 ## Getting Started
-Copy the folder named `MibiLogger` into the directory, and follow the [instructions](#Documentation).
+Copy the folder named `MibiLogger` into the directory, and follow this [instructions](#Documentation) :
 
 ## Documentation
 ### `Mibilogger.debuglog`
