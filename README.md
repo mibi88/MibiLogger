@@ -5,11 +5,15 @@ Create logs easier in Python 3 !
 
 [TOC]
 
-## `Mibilogger.debuglog`
+## Getting Started
+Copy the folder named `MibiLogger` into the directory, and follow the [instructions](#Documentation).
+
+## Documentation
+### `Mibilogger.debuglog`
 `from MibiLogger.debuglog import *`
 or
 `import MibiLogger.debuglog`
-### `startlog(description=None)`
+#### `startlog(description=None)`
 
 **Example** : 
 
@@ -23,7 +27,7 @@ Will be display :
 
 ![Result](https://raw.githubusercontent.com/mibi88/MibiLogger/main/example_imgs/example1.png)
 
-### `errorlog(error_name, error_type, value)`
+#### `errorlog(error_name, error_type, value)`
 
 **Example** : 
 
@@ -40,7 +44,7 @@ Will be display :
 
 ![Result](https://raw.githubusercontent.com/mibi88/MibiLogger/main/example_imgs/example2_1.png)
 
-### `infolog(error_name, error_type, value)`
+#### `infolog(error_name, error_type, value)`
 
 **Example** : 
 
@@ -55,7 +59,7 @@ Will be display :
 
 ![Result](https://raw.githubusercontent.com/mibi88/MibiLogger/main/example_imgs/example3.png)
 
-### `warninglog(error_name, error_type, value)`
+#### `warninglog(error_name, error_type, value)`
 
 **Example** : 
 
